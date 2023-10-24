@@ -5,6 +5,11 @@
     margin-left:5px;
 }
 
+header{
+    margin-left:0%;
+
+}
+
 h1{
     margin-top: 20px;
 }
@@ -41,6 +46,7 @@ thead{
     text-align: left;
     color: aliceblue;
     padding: 0%;
+
 }
 
 
@@ -48,6 +54,8 @@ footer{
     background-color: rgb(28, 28, 192);
     color: aliceblue;
     text-align: center;
+    height:30px;
+    
     
 }
 
