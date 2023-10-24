@@ -1,0 +1,81 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;*/
+
+div{
+    margin:0;
+    padding:0;
+    height:75px;
+}
+
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1{
+    font-size:x-large;
+    margin: 20px 0px 0px 0px;
+}
+
+h4{
+    font-size:x-small;
+    color:gray;
+    margin: 0px 0px 0px 0px;
+}
+
+h5{
+    font-size:x-small;
+    color: gray;
+    margin: 0px 0px 15px 0px;
+}
+h6{
+    font-size: x-small;
+    margin:0px 0px 10px 0px;
+}
+
+ul{
+    padding-left: 15px;
+}
+tr{
+    text-align: left;
+    width:100%;
+}
+
+.bg-blue{
+    background-color: rgb(56, 182, 249);
+    color: aliceblue;
+    font-weight:bold;
+}
+
+.bg-blue1{
+    background-color: rgba(51, 238, 216, 0.22);
+}
+
+footer{
+    margin-top: 40px;
+    text-align: center;
+    padding:10px;
+    font-size: small;
+    color: aliceblue;
+    background-color: blue;
+    height: 40px;
+}
+
+.photos{
+    width: 20%;
+    height: auto;
+}
+
+.blue-pattern{
+    background-color: rgba(62, 225, 211, 0.502);
+    background-image: url(../img/pattern.png);
+    background-size:15%;
+    
+}
+
+#logo{
+    width: 160px;
+    margin-left: 10%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
