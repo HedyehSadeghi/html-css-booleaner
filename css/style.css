@@ -1,11 +1,19 @@
 *{
-    margin:0%;
+    margin-top:0%;
+    margin-bottom:0%;
+    margin-right:0%;
+    margin-left:5px;
+}
+
+h1{
+    margin-top: 20px;
 }
 
 h3{
     font-weight: 100;
     font-size: small;
     color: gray;
+    font-family: 'Roboto Slab', serif;
 }
 
 h4{
@@ -13,22 +21,43 @@ h4{
     font-size: smaller;
 }
 
+p{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+ul{
+    margin-bottom: 20px;
+    padding-left:10px;
+}
+
 table{
     width: 100%;
+    margin-bottom: 30px;
 }
 
 thead{
-    background-color: rgb(65, 190, 252);
+    background-color: rgb(35, 136, 186);
+    text-align: left;
+    color: aliceblue;
+    padding: 0%;
 }
+
 
 footer{
     background-color: rgb(28, 28, 192);
+    color: aliceblue;
     text-align: center;
+    
 }
 
 .bg-aqua{
-    background-color:aqua;
+    background-color:rgb(26, 209, 209, 0.4);
 
+}
+
+.bg-aqua1{
+    background-color: rgba(31, 245, 245, 0.193);
 }
 
 
@@ -39,11 +68,12 @@ footer{
 
 .photos{
    
-    margin-top: 30px;
+    margin-top: 15px;
+   
 }
 
 #logo{
     width: 120px;
     margin-top:20px ;
     margin-bottom:20px;
-}
+    }
