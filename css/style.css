@@ -1,3 +1,14 @@
+*{
+    margin:0%;
+}
+
 .bg-blue{
-    background-color: rgb(92, 225, 246);
+    background-color: rgba(80, 219, 240, 0.804);
+
+}
+
+#logo{
+    width: 120px;
+    margin-top:20px ;
+    margin-bottom:20px;
 }
