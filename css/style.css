@@ -18,7 +18,12 @@ table{
 }
 
 thead{
-    background-color: rgb(65, 143, 252);
+    background-color: rgb(65, 190, 252);
+}
+
+footer{
+    background-color: rgb(28, 28, 192);
+    text-align: center;
 }
 
 .bg-aqua{
